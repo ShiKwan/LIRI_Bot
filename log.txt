@@ -1,0 +1,120 @@
+﻿--------------------------- OMDB -------------------------- 
+Results for... Mr. Nobody
+* IMDB Rating of the movie : 7.9/10
+* Rotten Tomatoes Rating of the movie : 66%
+      * Country where the movie was produced : Belgium, Germany, Canada, France, USA, UK
+      * Language of the movie : English, Mohawk
+      * Plot of the movie : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+      * Actors in the movie : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+      * Movie Release Year: 2009
+------------------ END OF OMDB ----------------- 
+--------------------------- OMDB -------------------------- 
+Results for... Mr. Nobody
+* IMDB Rating of the movie : 7.9/10
+* Rotten Tomatoes Rating of the movie : 66%
+      * Country where the movie was produced : Belgium, Germany, Canada, France, USA, UK
+      * Language of the movie : English, Mohawk
+      * Plot of the movie : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+      * Actors in the movie : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+      * Movie Release Year: 2009
+------------------ END OF OMDB ----------------- 
+------------------ SPOTIFY ----------------- 
+Results for... hip hop saved my life Search result 1 out of 10
+      * Album Name : Lupe Fiasco's The Cool
+      * Artist Name : Lupe Fiasco | Nikki Jean
+      * Duration (ms) : 242506
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/6N3oYlfZ2RPdjMYdHCRmFS
+      * Song Name : Hip-Hop Saved My Life (feat. Nikki Jean)
+      * Popularity : 52
+      * Track Number : 9
+Search result 2 out of 10
+      * Album Name : Lupe Fiasco's The Cool
+      * Artist Name : Lupe Fiasco | Nikki Jean
+      * Duration (ms) : 242506
+      * Explicit : false
+      * External URL: https://open.spotify.com/track/3cJt3U4T4jaf6fOjuxIaNq
+      * Song Name : Hip-Hop Saved My Life ( feat. Nikki Jean)
+      * Popularity : 33
+      * Track Number : 9
+Search result 3 out of 10
+      * Album Name : Hip Hop Heroes (Complete Edition)
+      * Artist Name : The Take Over | K-Rino
+      * Duration (ms) : 322600
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/7zr2ywzB4sJtVICUqOpoAp
+      * Song Name : Hip-Hop Saved My Life (feat. K Rino)
+      * Popularity : 0
+      * Track Number : 15
+Search result 4 out of 10
+      * Album Name : Heart of Stone
+      * Artist Name : J-Rocc | B-Don
+      * Duration (ms) : 245786
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/2uPEnBxtR4ltQ7ud00pRTb
+      * Song Name : Hip-Hop Saved My Life
+      * Popularity : 0
+      * Track Number : 3
+Search result 5 out of 10
+      * Album Name : State Of The Art
+      * Artist Name : NEEQ
+      * Duration (ms) : 207647
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/6rRE4c37GmfiULcyhIz5od
+      * Song Name : Hip Hop Saved My Life
+      * Popularity : 0
+      * Track Number : 3
+------------------ END OF SPOTIFY ----------------- 
+------------------ TWITTER -------------------
+let's go wildcat!!
+merry xmas everyone!!
+cwru bootcamp rocks!
+------------------ END OF TWITTER -------------------
+------------------ SPOTIFY ----------------- 
+Results for... hip hop saved my life 
+Search result 1 out of 10
+      * Album Name : Lupe Fiasco's The Cool
+      * Artist Name : Lupe Fiasco | Nikki Jean
+      * Duration (ms) : 242506
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/6N3oYlfZ2RPdjMYdHCRmFS
+      * Song Name : Hip-Hop Saved My Life (feat. Nikki Jean)
+      * Popularity : 52
+      * Track Number : 9
+Search result 2 out of 10
+      * Album Name : Lupe Fiasco's The Cool
+      * Artist Name : Lupe Fiasco | Nikki Jean
+      * Duration (ms) : 242506
+      * Explicit : false
+      * External URL: https://open.spotify.com/track/3cJt3U4T4jaf6fOjuxIaNq
+      * Song Name : Hip-Hop Saved My Life ( feat. Nikki Jean)
+      * Popularity : 33
+      * Track Number : 9
+Search result 3 out of 10
+      * Album Name : Hip Hop Heroes (Complete Edition)
+      * Artist Name : The Take Over | K-Rino
+      * Duration (ms) : 322600
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/7zr2ywzB4sJtVICUqOpoAp
+      * Song Name : Hip-Hop Saved My Life (feat. K Rino)
+      * Popularity : 0
+      * Track Number : 15
+Search result 4 out of 10
+      * Album Name : Heart of Stone
+      * Artist Name : J-Rocc | B-Don
+      * Duration (ms) : 245786
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/2uPEnBxtR4ltQ7ud00pRTb
+      * Song Name : Hip-Hop Saved My Life
+      * Popularity : 0
+      * Track Number : 3
+Search result 5 out of 10
+      * Album Name : State Of The Art
+      * Artist Name : NEEQ
+      * Duration (ms) : 207647
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/6rRE4c37GmfiULcyhIz5od
+      * Song Name : Hip Hop Saved My Life
+      * Popularity : 0
+      * Track Number : 3
+------------------ END OF SPOTIFY ----------------- 

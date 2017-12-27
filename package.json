@@ -1,16 +1,25 @@
 {
-  "name": "LIRI_Bot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "liri_bot",
+  "version": "1.1.0",
+  "description": "work like siri but not really siri",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "SK Tan",
   "license": "ISC",
   "dependencies": {
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiKwan/LIRI_Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShiKwan/LIRI_Bot/issues"
+  },
+  "homepage": "https://github.com/ShiKwan/LIRI_Bot#readme"
 }
