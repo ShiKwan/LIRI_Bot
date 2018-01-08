@@ -118,3 +118,81 @@ Search result 5 out of 10
       * Popularity : 0
       * Track Number : 3
 ------------------ END OF SPOTIFY ----------------- 
+------------------ TWITTER -------------------
+let's go wildcat!!
+merry xmas everyone!!
+cwru bootcamp rocks!
+------------------ END OF TWITTER -------------------
+------------------ TWITTER -------------------
+Tweet at : Wed Dec 20 20:23:29 +0000 2017
+Tweet : let's go wildcat!!
+Tweet at : Wed Dec 20 20:22:58 +0000 2017
+Tweet : merry xmas everyone!!
+Tweet at : Wed Dec 20 20:22:35 +0000 2017
+Tweet : cwru bootcamp rocks!
+------------------ END OF TWITTER -------------------
+------------------ TWITTER -------------------
+Tweet at : Wed Dec 20 20:23:29 +0000 2017
+Tweet : let's go wildcat!!
+Tweet at : Wed Dec 20 20:22:58 +0000 2017
+Tweet : merry xmas everyone!!
+Tweet at : Wed Dec 20 20:22:35 +0000 2017
+Tweet : cwru bootcamp rocks!
+------------------ END OF TWITTER -------------------
+------------------ TWITTER -------------------
+User name : SK_CWRU
+Tweet at : Wed Dec 20 20:23:29 +0000 2017
+Tweet : let's go wildcat!!
+Tweet at : Wed Dec 20 20:22:58 +0000 2017
+Tweet : merry xmas everyone!!
+Tweet at : Wed Dec 20 20:22:35 +0000 2017
+Tweet : cwru bootcamp rocks!
+------------------ END OF TWITTER -------------------
+------------------ SPOTIFY ----------------- 
+Results for... sober 
+Search result 1 out of 5195
+      * Album Name : Sober
+      * Artist Name : G-Eazy | Charlie Puth
+      * Duration (ms) : 203960
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/0GOJobsbOSIF99y6CGr5o6
+      * Song Name : Sober
+      * Popularity : 81
+      * Track Number : 1
+Search result 2 out of 5195
+      * Album Name : The Beautiful & Damned
+      * Artist Name : G-Eazy | Charlie Puth
+      * Duration (ms) : 203960
+      * Explicit : true
+      * External URL: https://open.spotify.com/track/3qk4wRMDlaeagZGjSYbsOV
+      * Song Name : Sober
+      * Popularity : 78
+      * Track Number : 5
+Search result 3 out of 5195
+      * Album Name : Kauai
+      * Artist Name : Childish Gambino
+      * Duration (ms) : 252013
+      * Explicit : false
+      * External URL: https://open.spotify.com/track/6olUplztLFFfU7fMYmFXOP
+      * Song Name : Sober
+      * Popularity : 73
+      * Track Number : 1
+Search result 4 out of 5195
+      * Album Name : Sober
+      * Artist Name : Cheat Codes | Nicky Romero
+      * Duration (ms) : 162924
+      * Explicit : false
+      * External URL: https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ
+      * Song Name : Sober
+      * Popularity : 72
+      * Track Number : 1
+Search result 5 out of 5195
+      * Album Name : The Click
+      * Artist Name : AJR | Rivers Cuomo
+      * Duration (ms) : 218763
+      * Explicit : false
+      * External URL: https://open.spotify.com/track/2QCndYqRherBtKjBpyySC6
+      * Song Name : Sober Up
+      * Popularity : 70
+      * Track Number : 4
+------------------ END OF SPOTIFY ----------------- 
